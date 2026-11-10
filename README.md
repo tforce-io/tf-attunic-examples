@@ -8,6 +8,7 @@ List of examples and the languages and frameworks each one uses:
 
 | Example | Languages | Frameworks | Description |
 |---------|-----------|------------|-------------|
+| [go](go) | Go | None | TFtodo, a command line to-do list: Cobra commands, Koanf settings, Zerolog logging, JSON file storage, in layered packages. |
 
 ## License
 
